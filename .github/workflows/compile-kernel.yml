@@ -53,11 +53,11 @@ on:
       kernel_sign:
         description: "Set the kernel custom signature"
         required: false
-        default: "-zugelii"
+        default: "-gabe"
         type: choice
         options:
           - -ophub
-          - -zugelii
+          - -gabe
 
 env:
   TZ: America/New_York
